@@ -73,7 +73,7 @@ export class App extends Component {
                         })
                         :
                         <Text>
-                            THERE'S NO INFO
+                            NO INFO TO SHOW
                         </Text>
                       }
                     </ScrollView>
